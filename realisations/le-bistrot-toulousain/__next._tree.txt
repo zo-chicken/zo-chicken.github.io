@@ -1,9 +1,9 @@
 :HL["/_next/static/chunks/1-difakpv6yaw.css","style"]
-:HL["/_next/static/chunks/3koi4xjupegvq.css","style"]
+:HL["/_next/static/chunks/1c4wj75v6vi2j.css","style"]
 :HL["/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"le-bistrot-toulousain","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"realisations","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":"(site)","h":131072,"c":"$Q2"}]]
-0:{"b":"8HLR8RiAqOT-UqVwBWF0P","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"RACQGzmkQnTo6LsLTBUbL","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
