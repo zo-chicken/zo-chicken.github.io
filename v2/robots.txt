@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /apercu
-
-Sitemap: https://lunexa.ai/sitemap.xml
