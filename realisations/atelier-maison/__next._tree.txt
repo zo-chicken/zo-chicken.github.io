@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/1-difakpv6yaw.css","style"]
-:HL["/_next/static/chunks/1vuyfb5dvnpu5.css","style"]
+:HL["/_next/static/chunks/3soo4fwo2k7vl.css","style"]
 :HL["/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/brand/logo-light.webp","image"]
@@ -8,4 +8,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"atelier-maison","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"realisations","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":"(site)","h":131072,"c":"$Q2"}]]
-0:{"b":"ruUU4yHSo80sLjcxz_Ym8","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"kZkeqy8or1jQQIijiamTD","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
