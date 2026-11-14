@@ -1,8 +1,11 @@
 :HL["/_next/static/chunks/1-difakpv6yaw.css","style"]
-:HL["/_next/static/chunks/2d8qkjq_yqtnh.css","style"]
+:HL["/_next/static/chunks/0sm1uwxje4yad.css","style"]
 :HL["/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/brand/logo-light.png","image"]
+:HL["/brand/logo-dark.png","image"]
+:HL["/brand/logo-x-only.png","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"politique-de-cookies","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(site)","c":"$Q2"}]]
-0:{"b":"eIDxqRcMKv4_GlO6yT-UC","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"bEGcqhTwEUkGF-bL0Jjm8","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
